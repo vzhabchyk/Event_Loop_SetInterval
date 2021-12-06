@@ -1,0 +1,13 @@
+body {
+  background-color: rgb(58, 56, 56);
+}
+
+#clock {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.divider {
+  font-size: 200px;
+}
