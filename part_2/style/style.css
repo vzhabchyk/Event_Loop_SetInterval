@@ -1,0 +1,23 @@
+.wrap {
+  display: flex;
+  flex-direction: row;
+}
+#slide {
+  width: 40%;
+  height: 600px;
+}
+
+.hidden {
+  visibility: hidden;
+}
+
+.btn-style {
+  display: block;
+  align-self: center;
+  height: 200px;
+  margin: 10px;
+  border: none;
+  border-radius: 10px;
+  font-weight: 800;
+  background-color: rgb(156, 244, 188);
+}
