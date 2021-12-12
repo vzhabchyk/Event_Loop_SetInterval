@@ -1,3 +1,5 @@
+'use strict'
+
 function getDigits(number) {
   const secondDigit = number % 10;
   const firstDigit = (number - secondDigit) / 10;
