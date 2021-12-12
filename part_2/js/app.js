@@ -1,3 +1,5 @@
+'use strict'
+
 const arrayImgs = [
   './images/chamomile.jpeg',
   './images/little_prince.jpeg',
